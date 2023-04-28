@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(148, 176, 201);
+}
+
+.launchPage {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.launchPage a {
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.launchPage h1 {
+    font: 4rem algerian;
+    color: purple;
+}
+
+.launchPage h2 {
+    margin-top: 8rem;
+}
